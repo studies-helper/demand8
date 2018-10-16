@@ -1,2 +1,4 @@
 # demand8
-anything you want,just demand it
+
+Demand8 is a git-controlled website which offers people to demand 
+and apps,games,etc and can easily get inder 8 hours
